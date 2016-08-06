@@ -1,0 +1,43 @@
+_repo: Theocritus-translated-into-English-Verse_11533
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Calverley, Charles Stuart
+    alias: C. S. C.
+    birthdate: 1831
+    deathdate: 1884
+    gutenberg_agent_id: '1387'
+    url: http://www.gutenberg.org/2009/agents/1387
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Stuart_Calverley
+creator:
+  author:
+    agent_name: Theocritus
+    aliases:
+    - Θεόκριτος
+    - Theokritos
+    - Theókritos
+    birthdate: -300
+    deathdate: -260
+    gutenberg_agent_id: '1574'
+    url: http://www.gutenberg.org/2009/agents/1574
+    wikipedia: http://en.wikipedia.org/wiki/Theocritus
+description: ''
+gutenberg_bookshelf: Classical Antiquity
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11533'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'City and town life -- Poetry'
+- !lcc 'PA'
+- !lcsh 'Mediterranean Region -- Poetry'
+- !lcsh 'Pastoral poetry, Greek -- Translations into English'
+- !lcsh 'Country life -- Poetry'
+- !lcsh 'Alexandria (Egypt) -- Poetry'
+- GITenberg
+title: Theocritus, translated into English Verse
+url: http://www.gutenberg.org/ebooks/11533
