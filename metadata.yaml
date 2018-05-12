@@ -1,5 +1,5 @@
 _repo: Theocritus-translated-into-English-Verse_11533
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Calverley, Charles Stuart
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '1387'
     url: http://www.gutenberg.org/2009/agents/1387
     wikipedia: http://en.wikipedia.org/wiki/Charles_Stuart_Calverley
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Theocritus
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1574
     wikipedia: http://en.wikipedia.org/wiki/Theocritus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11533#Theocritus-translated-into-English-Verse
 gutenberg_bookshelf: Classical Antiquity
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
